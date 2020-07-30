@@ -24,4 +24,4 @@ Git lässt sich per command line recht einfach updaten. Dazu starten wir die *cm
 ```
 git update-git-for-windows
 ```
-Als Git Clients lassen sich sowohl Eclipse (*git Integration in Standardinstallation enthalten*) als auch VS Code nutzen. Von der Funktionalität her ist VS Code etwas schlanker und übersichtlicher, kann aber durch zusätzliche Extensions wie * Git History* erweitert werden.
+Als Git Clients lassen sich sowohl Eclipse (*git Integration in Standardinstallation enthalten*) als auch VS Code nutzen. Von der Funktionalität her ist VS Code etwas schlanker und übersichtlicher, kann aber durch zusätzliche Extensions wie *Git History* erweitert werden.
